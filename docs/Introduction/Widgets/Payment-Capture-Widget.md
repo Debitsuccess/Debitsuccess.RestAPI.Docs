@@ -1,4 +1,4 @@
-# Payment Capture Widget
+# Payment Capture Widget test
 
 The Payment Capture Widget allows you to securely capture payment details (credit card and bank account) by embedding it in your website and save payment details in Debitsuccess systems. This widget triggers the internal [Create PaymentMethod](https://oc-debitsuccess.portal.azure-api.net/docs/services/Mock/operations/5e4317913b44f651f411dc64?&groupBy=tag) API to create the payment method into Debitsuccess.
 
